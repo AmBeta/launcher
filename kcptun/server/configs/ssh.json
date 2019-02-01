@@ -1,0 +1,16 @@
+{
+  "listen": ":29900",
+  "target": "127.0.0.1:23333",
+  "key": "ambeta",
+  "crypt": "none",
+  "mode": "fast",
+  "mtu": 1350,
+  "sndwnd": 512,
+  "rcvwnd": 512,
+  "datashard": 10,
+  "parityshard": 3,
+  "dscp": 0,
+  "nocomp": false,
+  "quiet": false,
+  "pprof": false
+}
