@@ -6,8 +6,8 @@ Transform tcp traffic to raw udp(icmp) traffic using [kcptun](https://github.com
 
 TCP data flow travels in the following route:
 
-> client: Application ==> TCP ==(kcptun)==> UDP ==(udp2raw)==> ICMP ====> (public)
-> server: (public) ====> ICMP ==(udp2raw)==> UDP ==(kcptun)==> TCP ====> Application
+> CLIENT: application ==> TCP ==(kcptun)==> UDP ==(udp2raw)==> ICMP ====> (public)  
+> SERVER: (public) ====> ICMP ==(udp2raw)==> UDP ==(kcptun)==> TCP ====> application
 
 ## Usage
 
@@ -15,8 +15,8 @@ Replace <SERVER_IP> and <TUNNEL_SECRET> with yours by hand and run `docker-compo
 
 ## TODO
 
-[ ] Add server configuration.
-[ ] Set <SERVER_IP> and <TUNNEL_SECRET> in docker-compose.yml file.
+- [ ] Add server configuration.
+- [ ] Set <SERVER_IP> and <TUNNEL_SECRET> in docker-compose.yml file.
 
 ## LICENSE
 
