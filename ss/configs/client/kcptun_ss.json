@@ -1,0 +1,16 @@
+{
+  "localaddr": "0.0.0.0:9527",
+  "remoteaddr": "127.0.0.1:29900",
+  "key": "<TUNNEL_SECRET>",
+  "crypt": "aes",
+  "mode": "fast",
+  "mtu": 1350,
+  "sndwnd": 512,
+  "rcvwnd": 512,
+  "datashard": 10,
+  "parityshard": 3,
+  "dscp": 0,
+  "nocomp": false,
+  "quiet": false,
+  "pprof": false
+}
