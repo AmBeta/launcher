@@ -11,12 +11,12 @@ TCP data flow travels in the following route:
 
 ## Usage
 
-Replace <SERVER_IP> and <TUNNEL_SECRET> with yours by hand and run `docker-compose up`.
+Replace <SERVER_IP> and <TUNNEL_SECRET> args with yours in **docker-compose.yml** file and run `docker-compose up`.
 
 ## TODO
 
 - [ ] Add server configuration.
-- [ ] Set <SERVER_IP> and <TUNNEL_SECRET> in docker-compose.yml file.
+- [x] Set <SERVER_IP> and <TUNNEL_SECRET> in docker-compose.yml file.
 
 ## LICENSE
 

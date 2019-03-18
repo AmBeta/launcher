@@ -11,13 +11,3 @@ services:
     ports:
       - "9527:9527"
       - "9528:9528"
-  server:
-    build:
-      context: .
-      dockerfile: dockerfiles/server.dockerfile
-      args:
-        - NODE_BASE=node:8-alpine
-    image: hualala/fe-server:latest
-    ports:
-      - "8000:8000"
-    command: npm start
