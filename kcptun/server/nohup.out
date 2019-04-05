@@ -1,0 +1,75 @@
+2019/04/04 23:24:16 version: 20190109
+2019/04/04 23:24:16 initiating key derivation
+2019/04/04 23:24:16 version: 20190109
+2019/04/04 23:24:16 initiating key derivation
+2019/04/04 23:24:16 version: 20190109
+2019/04/04 23:24:16 initiating key derivation
+2019/04/04 23:24:16 listening on: [::]:29900
+2019/04/04 23:24:16 target: 127.0.0.1:23333
+2019/04/04 23:24:16 encryption: none
+2019/04/04 23:24:16 nodelay parameters: 0 30 2 1
+2019/04/04 23:24:16 sndwnd: 512 rcvwnd: 512
+2019/04/04 23:24:16 compression: true
+2019/04/04 23:24:16 mtu: 1350
+2019/04/04 23:24:16 datashard: 10 parityshard: 3
+2019/04/04 23:24:16 acknodelay: false
+2019/04/04 23:24:16 dscp: 0
+2019/04/04 23:24:16 sockbuf: 4194304
+2019/04/04 23:24:16 keepalive: 10
+2019/04/04 23:24:16 snmplog: 
+2019/04/04 23:24:16 snmpperiod: 60
+2019/04/04 23:24:16 pprof: false
+2019/04/04 23:24:16 quiet: false
+2019/04/04 23:24:16 listening on: [::]:29902
+2019/04/04 23:24:16 target: 127.0.0.1:9527
+2019/04/04 23:24:16 encryption: none
+2019/04/04 23:24:16 nodelay parameters: 0 30 2 1
+2019/04/04 23:24:16 sndwnd: 512 rcvwnd: 512
+2019/04/04 23:24:16 compression: false
+2019/04/04 23:24:16 mtu: 1350
+2019/04/04 23:24:16 datashard: 10 parityshard: 3
+2019/04/04 23:24:16 acknodelay: false
+2019/04/04 23:24:16 dscp: 0
+2019/04/04 23:24:16 sockbuf: 4194304
+2019/04/04 23:24:16 keepalive: 10
+2019/04/04 23:24:16 snmplog: 
+2019/04/04 23:24:16 snmpperiod: 60
+2019/04/04 23:24:16 pprof: false
+2019/04/04 23:24:16 quiet: false
+2019/04/04 23:24:16 listening on: [::]:29901
+2019/04/04 23:24:16 target: 127.0.0.1:9527
+2019/04/04 23:24:16 encryption: none
+2019/04/04 23:24:16 nodelay parameters: 0 30 2 1
+2019/04/04 23:24:16 sndwnd: 512 rcvwnd: 512
+2019/04/04 23:24:16 compression: true
+2019/04/04 23:24:16 mtu: 1350
+2019/04/04 23:24:16 datashard: 10 parityshard: 3
+2019/04/04 23:24:16 acknodelay: false
+2019/04/04 23:24:16 dscp: 0
+2019/04/04 23:24:16 sockbuf: 4194304
+2019/04/04 23:24:16 keepalive: 10
+2019/04/04 23:24:16 snmplog: 
+2019/04/04 23:24:16 snmpperiod: 60
+2019/04/04 23:24:16 pprof: false
+2019/04/04 23:24:16 quiet: false
+2019/04/04 23:24:21 remote address: 101.229.114.121:61468
+2019/04/04 23:24:21 stream opened
+2019/04/04 23:24:22 stream opened
+2019/04/04 23:24:22 stream closed
+2019/04/04 23:24:24 stream opened
+2019/04/04 23:24:24 stream opened
+2019/04/04 23:24:25 stream closed
+2019/04/04 23:24:28 stream opened
+2019/04/04 23:24:28 stream opened
+2019/04/04 23:24:28 stream opened
+2019/04/04 23:24:28 stream opened
+2019/04/04 23:24:28 stream opened
+2019/04/04 23:24:30 stream opened
+2019/04/04 23:24:30 stream opened
+2019/04/04 23:24:41 stream opened
+2019/04/04 23:24:51 stream closed
+2019/04/04 23:24:51 stream closed
+2019/04/04 23:24:51 stream closed
+2019/04/04 23:24:51 stream closed
+2019/04/04 23:24:51 stream opened
+2019/04/04 23:25:04 stream opened
